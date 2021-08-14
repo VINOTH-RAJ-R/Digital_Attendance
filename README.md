@@ -1,4 +1,6 @@
 # Digital_Attendance
+
+# About The Project
 Attendance is a compulsory requirement of every organization. Maintaining
 attendance register daily is a difficult and time-consuming task. There are many
 automated methods for the same available like Biometric, RFID and many more.
@@ -39,3 +41,5 @@ Face Recognition.
 This module will receive the photo from the firebase to the server and the
 faces will be recognition with pre-loaded photo of the users and match it and
 load the names in excel sheet and upload it to the firebase.
+
+# Conclusion
