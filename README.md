@@ -11,7 +11,7 @@ stored.The captured photo is sent to the server, the face of the students are re
 and are marked present.
 
 # The modules which are defined in this project are
-* ➢ Splash screen
+➢ Splash screen
 ➢ Login and signup
 ➢ Camera and Gallery
 ➢ Firebase
@@ -20,17 +20,17 @@ and are marked present.
 This module is used as the first screen visible to the user when the
 applications launched. Splash screens are used to display some
 animations typically of the application logo.
-Login and Signup:
+* Login and Signup:
 This module initializes the user to verify that as profile is created or not and
 allow the user to use the application.
-Camera and Gallery:
+* Camera and Gallery:
 This module is used to capture the photos of the people and store it in the
 mobile storage and from gallery choosing the picture and send it to the
 firebase.
-Firebase:
+* Firebase:
 This module will receive the photo from user and send it to the server for
 Face Recognition.
-Face Recognition:
+* Face Recognition:
 This module will receive the photo from the firebase to the server and the
 faces will be recognition with pre-loaded photo of the users and match it and
 load the names in excel sheet and upload it to the firebase.
