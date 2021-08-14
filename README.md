@@ -1,4 +1,4 @@
-# Digital_Attendance
+# Digital Attendance
 
 # About The Project
 Attendance is a compulsory requirement of every organization. Maintaining
