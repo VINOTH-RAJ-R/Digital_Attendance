@@ -43,3 +43,10 @@ faces will be recognition with pre-loaded photo of the users and match it and
 load the names in excel sheet and upload it to the firebase.
 
 # Conclusion
+In current situation, every time is much more important. Mean while we are
+here to save a little time for you with this Digital Attendance App, with this
+application you can take a single photo of the people who are all present in
+your organization, schools, college and much more place where you need to
+find the persons are present or not by a photo. From this application we are
+trying to give you a maximum accurate result to you and from our side we
+think so as we been good.
