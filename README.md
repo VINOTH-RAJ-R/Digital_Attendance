@@ -12,6 +12,7 @@ and are marked present.
 
 # The modules which are defined in this project are
 ➢ Splash screen
+
 ➢ Login and signup
 ➢ Camera and Gallery
 ➢ Firebase
