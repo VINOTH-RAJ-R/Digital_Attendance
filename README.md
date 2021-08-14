@@ -14,9 +14,13 @@ and are marked present.
 ➢ Splash screen
 
 ➢ Login and signup
+
 ➢ Camera and Gallery
+
 ➢ Firebase
+
 ➢ Face-Recognition
+
 * Splash screen:
 This module is used as the first screen visible to the user when the
 applications launched. Splash screens are used to display some
