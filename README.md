@@ -50,3 +50,6 @@ your organization, schools, college and much more place where you need to
 find the persons are present or not by a photo. From this application we are
 trying to give you a maximum accurate result to you and from our side we
 think so as we been good.
+
+# License
+MIT license
